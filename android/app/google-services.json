@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "480969066284",
+    "project_id": "crud-todo-2223b",
+    "storage_bucket": "crud-todo-2223b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480969066284:android:17fbab485d6b2153de4e89",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_firestore_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqd434KUpjkhRMpaafFY_KKLmJM5TIzv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480969066284:android:0586a98f7af325b3de4e89",
+        "android_client_info": {
+          "package_name": "com.example.login_app_ui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqd434KUpjkhRMpaafFY_KKLmJM5TIzv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
